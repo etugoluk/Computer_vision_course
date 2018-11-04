@@ -1,0 +1,123 @@
+DOG_IMAGE:
+key points: 965, descriptors: (965, 61)
+
+bad1/IMG_1590.JPG:
+key points: 1950
+descriptors: (1950, 61)
+matches: 21
+time: 3.22667098045
+
+bad1/IMG_1591.JPG:
+key points: 16526
+descriptors: (16526, 61)
+matches: 32
+time: 3.19362521172
+
+bad1/IMG_1593.JPG:
+key points: 4354
+descriptors: (4354, 61)
+matches: 46
+time: 2.85436201096
+
+bad1/IMG_1592.JPG:
+key points: 10153
+descriptors: (10153, 61)
+matches: 25
+time: 3.0030939579
+
+bad1/IMG_1596.JPG:
+key points: 17554
+descriptors: (17554, 61)
+matches: 27
+time: 3.28509187698
+
+bad1/IMG_1597.JPG:
+key points: 6177
+descriptors: (6177, 61)
+matches: 39
+time: 2.93873095512
+
+bad1/IMG_1608.JPG:
+key points: 5752
+descriptors: (5752, 61)
+matches: 28
+time: 3.00090193748
+
+bad1/IMG_1595.JPG:
+key points: 17321
+descriptors: (17321, 61)
+matches: 27
+time: 3.32146000862
+
+bad1/IMG_1594.JPG:
+key points: 12689
+descriptors: (12689, 61)
+matches: 28
+time: 3.13744401932
+
+bad1/IMG_1604.JPG:
+key points: 10626
+descriptors: (10626, 61)
+matches: 45
+time: 3.06861782074
+
+bad1/IMG_1599.JPG:
+key points: 39051
+descriptors: (39051, 61)
+matches: 31
+time: 4.53123903275
+
+bad1/IMG_1598.JPG:
+key points: 26731
+descriptors: (26731, 61)
+matches: 21
+time: 3.83143186569
+
+bad1/IMG_1605.JPG:
+key points: 12378
+descriptors: (12378, 61)
+matches: 46
+time: 3.3888759613
+
+bad1/IMG_1607.JPG:
+key points: 13394
+descriptors: (13394, 61)
+matches: 36
+time: 3.20619988441
+
+bad1/IMG_1606.JPG:
+key points: 12357
+descriptors: (12357, 61)
+matches: 51
+time: 3.15292310715
+
+bad1/IMG_1603.JPG:
+key points: 1581
+descriptors: (1581, 61)
+matches: 30
+time: 2.93160700798
+
+bad1/IMG_1601.JPG:
+key points: 7506
+descriptors: (7506, 61)
+matches: 27
+time: 3.05367994308
+
+bad1/IMG_1588.JPG:
+key points: 6552
+descriptors: (6552, 61)
+matches: 38
+time: 3.03564214706
+
+bad1/IMG_1589.JPG:
+key points: 9682
+descriptors: (9682, 61)
+matches: 31
+time: 3.08825206757
+
+bad1/IMG_1600.JPG:
+key points: 1082
+descriptors: (1082, 61)
+matches: 23
+time: 2.76997995377
+

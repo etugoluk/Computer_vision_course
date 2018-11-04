@@ -1,0 +1,603 @@
+DOG_IMAGE:
+key points: 965, descriptors: (965, 61)
+
+good1/IMG_1493.JPG:
+key points: 4945
+descriptors: (4945, 61)
+matches: 57
+time: 3.45680499077
+
+good1/IMG_1487.JPG:
+key points: 5448
+descriptors: (5448, 61)
+matches: 53
+time: 3.35591197014
+
+good1/IMG_1518.JPG:
+key points: 2696
+descriptors: (2696, 61)
+matches: 57
+time: 2.88195490837
+
+good1/IMG_1524.JPG:
+key points: 2125
+descriptors: (2125, 61)
+matches: 41
+time: 3.09801697731
+
+good1/IMG_1530.JPG:
+key points: 4057
+descriptors: (4057, 61)
+matches: 40
+time: 3.18966698647
+
+good1/IMG_1531.JPG:
+key points: 3670
+descriptors: (3670, 61)
+matches: 29
+time: 3.01057100296
+
+good1/IMG_1525.JPG:
+key points: 1417
+descriptors: (1417, 61)
+matches: 29
+time: 2.8167579174
+
+good1/IMG_1519.JPG:
+key points: 3720
+descriptors: (3720, 61)
+matches: 57
+time: 2.89708685875
+
+good1/IMG_1486.JPG:
+key points: 5420
+descriptors: (5420, 61)
+matches: 45
+time: 2.92329883575
+
+good1/IMG_1492.JPG:
+key points: 4330
+descriptors: (4330, 61)
+matches: 50
+time: 2.9610209465
+
+good1/IMG_1490.JPG:
+key points: 3657
+descriptors: (3657, 61)
+matches: 55
+time: 2.92394280434
+
+good1/IMG_1533.JPG:
+key points: 3231
+descriptors: (3231, 61)
+matches: 30
+time: 2.87575101852
+
+good1/IMG_1527.JPG:
+key points: 2159
+descriptors: (2159, 61)
+matches: 28
+time: 2.79846405983
+
+good1/IMG_1526.JPG:
+key points: 2854
+descriptors: (2854, 61)
+matches: 41
+time: 2.80880880356
+
+good1/IMG_1532.JPG:
+key points: 4176
+descriptors: (4176, 61)
+matches: 29
+time: 2.81768107414
+
+good1/IMG_1491.JPG:
+key points: 4044
+descriptors: (4044, 61)
+matches: 60
+time: 2.90735507011
+
+good1/IMG_1485.JPG:
+key points: 5010
+descriptors: (5010, 61)
+matches: 55
+time: 2.94670915604
+
+good1/IMG_1495.JPG:
+key points: 5924
+descriptors: (5924, 61)
+matches: 35
+time: 2.90140199661
+
+good1/IMG_1536.JPG:
+key points: 9919
+descriptors: (9919, 61)
+matches: 34
+time: 3.1252951622
+
+good1/IMG_1522.JPG:
+key points: 1688
+descriptors: (1688, 61)
+matches: 58
+time: 2.88808298111
+
+good1/IMG_1523.JPG:
+key points: 1966
+descriptors: (1966, 61)
+matches: 75
+time: 2.79990005493
+
+good1/IMG_1537.JPG:
+key points: 6485
+descriptors: (6485, 61)
+matches: 50
+time: 2.90083599091
+
+good1/IMG_1494.JPG:
+key points: 4915
+descriptors: (4915, 61)
+matches: 30
+time: 2.8554520607
+
+good1/IMG_1496.JPG:
+key points: 2222
+descriptors: (2222, 61)
+matches: 47
+time: 2.8034760952
+
+good1/IMG_1521.JPG:
+key points: 9165
+descriptors: (9165, 61)
+matches: 41
+time: 3.04846405983
+
+good1/IMG_1535.JPG:
+key points: 11214
+descriptors: (11214, 61)
+matches: 35
+time: 3.05187606812
+
+good1/IMG_1509.JPG:
+key points: 2401
+descriptors: (2401, 61)
+matches: 739
+time: 2.91840410233
+
+good1/IMG_1508.JPG:
+key points: 965
+descriptors: (965, 61)
+matches: 965
+time: 1.8013458252
+
+good1/IMG_1534.JPG:
+key points: 8037
+descriptors: (8037, 61)
+matches: 42
+time: 3.17284107208
+
+good1/IMG_1520.JPG:
+key points: 2408
+descriptors: (2408, 61)
+matches: 71
+time: 2.94428896904
+
+good1/IMG_1497.JPG:
+key points: 2457
+descriptors: (2457, 61)
+matches: 57
+time: 2.87855696678
+
+good1/IMG_1584.JPG:
+key points: 15147
+descriptors: (15147, 61)
+matches: 38
+time: 3.26930522919
+
+good1/IMG_1547.JPG:
+key points: 11715
+descriptors: (11715, 61)
+matches: 48
+time: 3.19451189041
+
+good1/IMG_1553.JPG:
+key points: 5539
+descriptors: (5539, 61)
+matches: 64
+time: 3.0766890049
+
+good1/IMG_1552.JPG:
+key points: 7217
+descriptors: (7217, 61)
+matches: 41
+time: 2.95880508423
+
+good1/IMG_1585.JPG:
+key points: 5417
+descriptors: (5417, 61)
+matches: 29
+time: 2.88365697861
+
+good1/IMG_1587.JPG:
+key points: 3218
+descriptors: (3218, 61)
+matches: 49
+time: 2.88999986649
+
+good1/IMG_1578.JPG:
+key points: 32359
+descriptors: (32359, 61)
+matches: 27
+time: 3.71103000641
+
+good1/IMG_1550.JPG:
+key points: 4692
+descriptors: (4692, 61)
+matches: 43
+time: 3.08574104309
+
+good1/IMG_1544.JPG:
+key points: 13818
+descriptors: (13818, 61)
+matches: 61
+time: 3.29074621201
+
+good1/IMG_1545.JPG:
+key points: 10808
+descriptors: (10808, 61)
+matches: 55
+time: 3.17580604553
+
+good1/IMG_1551.JPG:
+key points: 13487
+descriptors: (13487, 61)
+matches: 45
+time: 3.19749593735
+
+good1/IMG_1579.JPG:
+key points: 14529
+descriptors: (14529, 61)
+matches: 48
+time: 3.15531396866
+
+good1/IMG_1586.JPG:
+key points: 7075
+descriptors: (7075, 61)
+matches: 49
+time: 2.96306085587
+
+good1/IMG_1555.JPG:
+key points: 14264
+descriptors: (14264, 61)
+matches: 43
+time: 3.11155295372
+
+good1/IMG_1541.JPG:
+key points: 11453
+descriptors: (11453, 61)
+matches: 41
+time: 3.19605302811
+
+good1/IMG_1569.JPG:
+key points: 11170
+descriptors: (11170, 61)
+matches: 34
+time: 3.11906790733
+
+good1/IMG_1540.JPG:
+key points: 24587
+descriptors: (24587, 61)
+matches: 42
+time: 3.39449000359
+
+good1/IMG_1554.JPG:
+key points: 4116
+descriptors: (4116, 61)
+matches: 38
+time: 2.93845105171
+
+good1/IMG_1583.JPG:
+key points: 19075
+descriptors: (19075, 61)
+matches: 28
+time: 3.3306350708
+
+good1/IMG_1581.JPG:
+key points: 17710
+descriptors: (17710, 61)
+matches: 25
+time: 3.29439282417
+
+good1/IMG_1542.JPG:
+key points: 9786
+descriptors: (9786, 61)
+matches: 39
+time: 3.16637516022
+
+good1/IMG_1556.JPG:
+key points: 8540
+descriptors: (8540, 61)
+matches: 47
+time: 3.05730199814
+
+good1/IMG_1557.JPG:
+key points: 9381
+descriptors: (9381, 61)
+matches: 35
+time: 3.06891798973
+
+good1/IMG_1543.JPG:
+key points: 11922
+descriptors: (11922, 61)
+matches: 59
+time: 3.14182400703
+
+good1/IMG_1580.JPG:
+key points: 16215
+descriptors: (16215, 61)
+matches: 37
+time: 3.20028996468
+
+good1/IMG_1566.JPG:
+key points: 18734
+descriptors: (18734, 61)
+matches: 35
+time: 3.45307087898
+
+good1/IMG_1572.JPG:
+key points: 16314
+descriptors: (16314, 61)
+matches: 24
+time: 3.41710400581
+
+good1/IMG_1573.JPG:
+key points: 24599
+descriptors: (24599, 61)
+matches: 32
+time: 3.50865602493
+
+good1/IMG_1567.JPG:
+key points: 6377
+descriptors: (6377, 61)
+matches: 34
+time: 3.07514405251
+
+good1/IMG_1559.JPG:
+key points: 16246
+descriptors: (16246, 61)
+matches: 49
+time: 3.22624588013
+
+good1/IMG_1571.JPG:
+key points: 18332
+descriptors: (18332, 61)
+matches: 25
+time: 3.30949497223
+
+good1/IMG_1565.JPG:
+key points: 14451
+descriptors: (14451, 61)
+matches: 26
+time: 3.25797080994
+
+good1/IMG_1564.JPG:
+key points: 14867
+descriptors: (14867, 61)
+matches: 48
+time: 4.07993006706
+
+good1/IMG_1570.JPG:
+key points: 29199
+descriptors: (29199, 61)
+matches: 24
+time: 5.79439997673
+
+good1/IMG_1558.JPG:
+key points: 7427
+descriptors: (7427, 61)
+matches: 50
+time: 5.14752984047
+
+good1/IMG_1574.JPG:
+key points: 23551
+descriptors: (23551, 61)
+matches: 25
+time: 3.92735004425
+
+good1/IMG_1560.JPG:
+key points: 24634
+descriptors: (24634, 61)
+matches: 36
+time: 3.47288393974
+
+good1/IMG_1548.JPG:
+key points: 6414
+descriptors: (6414, 61)
+matches: 30
+time: 3.04689788818
+
+good1/IMG_1549.JPG:
+key points: 7427
+descriptors: (7427, 61)
+matches: 53
+time: 3.04776000977
+
+good1/IMG_1561.JPG:
+key points: 20235
+descriptors: (20235, 61)
+matches: 48
+time: 3.35897183418
+
+good1/IMG_1575.JPG:
+key points: 22406
+descriptors: (22406, 61)
+matches: 36
+time: 3.42241811752
+
+good1/IMG_1563.JPG:
+key points: 15155
+descriptors: (15155, 61)
+matches: 37
+time: 3.2782831192
+
+good1/IMG_1577.JPG:
+key points: 12101
+descriptors: (12101, 61)
+matches: 56
+time: 3.23347187042
+
+good1/IMG_1576.JPG:
+key points: 21690
+descriptors: (21690, 61)
+matches: 21
+time: 3.38207507133
+
+good1/IMG_1562.JPG:
+key points: 20347
+descriptors: (20347, 61)
+matches: 55
+time: 3.34420609474
+
+good1/IMG_1539.JPG:
+key points: 8321
+descriptors: (8321, 61)
+matches: 41
+time: 3.10865807533
+
+good1/IMG_1505.JPG:
+key points: 7600
+descriptors: (7600, 61)
+matches: 44
+time: 3.08450102806
+
+good1/IMG_1511.JPG:
+key points: 2808
+descriptors: (2808, 61)
+matches: 54
+time: 2.80879497528
+
+good1/IMG_1510.JPG:
+key points: 3548
+descriptors: (3548, 61)
+matches: 65
+time: 2.84018802643
+
+good1/IMG_1504.JPG:
+key points: 7405
+descriptors: (7405, 61)
+matches: 42
+time: 3.05157208443
+
+good1/IMG_1538.JPG:
+key points: 12850
+descriptors: (12850, 61)
+matches: 41
+time: 3.14827394485
+
+good1/IMG_1499.JPG:
+key points: 1707
+descriptors: (1707, 61)
+matches: 50
+time: 2.89317703247
+
+good1/IMG_1512.JPG:
+key points: 3153
+descriptors: (3153, 61)
+matches: 60
+time: 2.81521081924
+
+good1/IMG_1506.JPG:
+key points: 8031
+descriptors: (8031, 61)
+matches: 37
+time: 2.95476007462
+
+good1/IMG_1507.JPG:
+key points: 4547
+descriptors: (4547, 61)
+matches: 54
+time: 2.96801018715
+
+good1/IMG_1513.JPG:
+key points: 2711
+descriptors: (2711, 61)
+matches: 61
+time: 4.74635505676
+
+good1/IMG_1498.JPG:
+key points: 2423
+descriptors: (2423, 61)
+matches: 58
+time: 4.42526817322
+
+good1/IMG_1488.JPG:
+key points: 6716
+descriptors: (6716, 61)
+matches: 43
+time: 3.34521079063
+
+good1/IMG_1517.JPG:
+key points: 2465
+descriptors: (2465, 61)
+matches: 43
+time: 3.69256806374
+
+good1/IMG_1503.JPG:
+key points: 25548
+descriptors: (25548, 61)
+matches: 45
+time: 4.57145595551
+
+good1/IMG_1502.JPG:
+key points: 16175
+descriptors: (16175, 61)
+matches: 37
+time: 4.10214781761
+
+good1/IMG_1516.JPG:
+key points: 1836
+descriptors: (1836, 61)
+matches: 64
+time: 3.25729680061
+
+good1/IMG_1489.JPG:
+key points: 4884
+descriptors: (4884, 61)
+matches: 61
+time: 3.59879517555
+
+good1/IMG_1500.JPG:
+key points: 769
+descriptors: (769, 61)
+matches: 60
+time: 3.85489702225
+
+good1/IMG_1514.JPG:
+key points: 3625
+descriptors: (3625, 61)
+matches: 48
+time: 3.24150490761
+
+good1/IMG_1528.JPG:
+key points: 2894
+descriptors: (2894, 61)
+matches: 30
+time: 2.92356801033
+
+good1/IMG_1529.JPG:
+key points: 2938
+descriptors: (2938, 61)
+matches: 22
+time: 2.87194705009
+
+good1/IMG_1515.JPG:
+key points: 3416
+descriptors: (3416, 61)
+matches: 58
+time: 2.83303618431
+
+good1/IMG_1501.JPG:
+key points: 11307
+descriptors: (11307, 61)
+matches: 53
+time: 3.07223796844
+

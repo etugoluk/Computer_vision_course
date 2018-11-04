@@ -1,0 +1,123 @@
+MONKEY_IMAGE:
+key points: 2532, descriptors: (2532, 61)
+
+bad/IMG_8539.JPG:
+key points: 10482
+descriptors: (10482, 61)
+matches: 82
+time: 2.47672390938
+
+bad/IMG_8538.JPG:
+key points: 1720
+descriptors: (1720, 61)
+matches: 72
+time: 2.24454903603
+
+bad/IMG_8548.JPG:
+key points: 1307
+descriptors: (1307, 61)
+matches: 87
+time: 2.61333608627
+
+bad/IMG_8549.JPG:
+key points: 1081
+descriptors: (1081, 61)
+matches: 81
+time: 2.10593700409
+
+bad/IMG_8542.JPG:
+key points: 4771
+descriptors: (4771, 61)
+matches: 75
+time: 2.29429101944
+
+bad/IMG_8543.JPG:
+key points: 5862
+descriptors: (5862, 61)
+matches: 96
+time: 2.32432103157
+
+bad/IMG_8541.JPG:
+key points: 1036
+descriptors: (1036, 61)
+matches: 85
+time: 2.27491903305
+
+bad/IMG_8540.JPG:
+key points: 8929
+descriptors: (8929, 61)
+matches: 85
+time: 2.45008707047
+
+bad/IMG_8554.JPG:
+key points: 4181
+descriptors: (4181, 61)
+matches: 101
+time: 2.15573716164
+
+bad/IMG_8550.JPG:
+key points: 14827
+descriptors: (14827, 61)
+matches: 57
+time: 2.93145680428
+
+bad/IMG_8544.JPG:
+key points: 8003
+descriptors: (8003, 61)
+matches: 77
+time: 2.43528413773
+
+bad/IMG_8545.JPG:
+key points: 1276
+descriptors: (1276, 61)
+matches: 117
+time: 2.16888689995
+
+bad/IMG_8551.JPG:
+key points: 14463
+descriptors: (14463, 61)
+matches: 76
+time: 2.9569170475
+
+bad/IMG_8547.JPG:
+key points: 3576
+descriptors: (3576, 61)
+matches: 65
+time: 2.60017204285
+
+bad/IMG_8553.JPG:
+key points: 3914
+descriptors: (3914, 61)
+matches: 74
+time: 2.76516413689
+
+bad/IMG_8552.JPG:
+key points: 8943
+descriptors: (8943, 61)
+matches: 77
+time: 2.50516915321
+
+bad/IMG_8546.JPG:
+key points: 8495
+descriptors: (8495, 61)
+matches: 58
+time: 3.10718202591
+
+bad/IMG_8535.JPG:
+key points: 196
+descriptors: (196, 61)
+matches: 126
+time: 2.71323513985
+
+bad/IMG_8536.JPG:
+key points: 350
+descriptors: (350, 61)
+matches: 75
+time: 2.41829204559
+
+bad/IMG_8537.JPG:
+key points: 3317
+descriptors: (3317, 61)
+matches: 87
+time: 2.42371797562
+

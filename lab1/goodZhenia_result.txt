@@ -1,0 +1,603 @@
+MONKEY_IMAGE:
+key points: 2532, descriptors: (2532, 61)
+
+good/IMG_8448.JPG:
+key points: 1610
+descriptors: (1610, 61)
+matches: 177
+time: 2.08606600761
+
+good/IMG_8474.JPG:
+key points: 4541
+descriptors: (4541, 61)
+matches: 122
+time: 2.72991299629
+
+good/IMG_8460.JPG:
+key points: 17974
+descriptors: (17974, 61)
+matches: 67
+time: 3.22042298317
+
+good/IMG_8528.JPG:
+key points: 12652
+descriptors: (12652, 61)
+matches: 140
+time: 3.20477604866
+
+good/IMG_8500.JPG:
+key points: 1154
+descriptors: (1154, 61)
+matches: 103
+time: 2.43825387955
+
+good/IMG_8514.JPG:
+key points: 1792
+descriptors: (1792, 61)
+matches: 118
+time: 2.17657709122
+
+good/IMG_8515.JPG:
+key points: 563
+descriptors: (563, 61)
+matches: 123
+time: 2.36496305466
+
+good/IMG_8501.JPG:
+key points: 1937
+descriptors: (1937, 61)
+matches: 122
+time: 2.17556095123
+
+good/IMG_8529.JPG:
+key points: 5414
+descriptors: (5414, 61)
+matches: 68
+time: 2.30315899849
+
+good/IMG_8475.JPG:
+key points: 4309
+descriptors: (4309, 61)
+matches: 138
+time: 2.33406591415
+
+good/IMG_8449.JPG:
+key points: 668
+descriptors: (668, 61)
+matches: 161
+time: 2.00041484833
+
+good/IMG_8488.JPG:
+key points: 3035
+descriptors: (3035, 61)
+matches: 102
+time: 2.48712301254
+
+good/IMG_8477.JPG:
+key points: 9348
+descriptors: (9348, 61)
+matches: 98
+time: 2.36570501328
+
+good/IMG_8517.JPG:
+key points: 313
+descriptors: (313, 61)
+matches: 91
+time: 2.44604492188
+
+good/IMG_8503.JPG:
+key points: 313
+descriptors: (313, 61)
+matches: 197
+time: 2.02431511879
+
+good/IMG_8502.JPG:
+key points: 221
+descriptors: (221, 61)
+matches: 201
+time: 2.30409884453
+
+good/IMG_8516.JPG:
+key points: 1033
+descriptors: (1033, 61)
+matches: 123
+time: 1.95455408096
+
+good/IMG_8476.JPG:
+key points: 8969
+descriptors: (8969, 61)
+matches: 110
+time: 2.50826597214
+
+good/IMG_8489.JPG:
+key points: 2068
+descriptors: (2068, 61)
+matches: 70
+time: 2.03013110161
+
+good/IMG_8499.JPG:
+key points: 890
+descriptors: (890, 61)
+matches: 123
+time: 1.95364117622
+
+good/IMG_8466.JPG:
+key points: 564
+descriptors: (564, 61)
+matches: 89
+time: 2.22129893303
+
+good/IMG_8472.JPG:
+key points: 3427
+descriptors: (3427, 61)
+matches: 79
+time: 2.03194880486
+
+good/IMG_8512.JPG:
+key points: 877
+descriptors: (877, 61)
+matches: 161
+time: 2.25126290321
+
+good/IMG_8506.JPG:
+key points: 7745
+descriptors: (7745, 61)
+matches: 148
+time: 2.19089007378
+
+good/IMG_8507.JPG:
+key points: 9422
+descriptors: (9422, 61)
+matches: 200
+time: 2.62856006622
+
+good/IMG_8513.JPG:
+key points: 1236
+descriptors: (1236, 61)
+matches: 175
+time: 2.05486607552
+
+good/IMG_8473.JPG:
+key points: 4709
+descriptors: (4709, 61)
+matches: 87
+time: 2.33562111855
+
+good/IMG_8467.JPG:
+key points: 887
+descriptors: (887, 61)
+matches: 91
+time: 2.04687595367
+
+good/IMG_8498.JPG:
+key points: 767
+descriptors: (767, 61)
+matches: 146
+time: 1.95977687836
+
+good/IMG_8471.JPG:
+key points: 3379
+descriptors: (3379, 61)
+matches: 92
+time: 2.42411804199
+
+good/IMG_8465.JPG:
+key points: 1549
+descriptors: (1549, 61)
+matches: 127
+time: 2.00431680679
+
+good/IMG_8459.JPG:
+key points: 1178
+descriptors: (1178, 61)
+matches: 131
+time: 2.3311560154
+
+good/IMG_8505.JPG:
+key points: 330
+descriptors: (330, 61)
+matches: 120
+time: 1.96238589287
+
+good/IMG_8511.JPG:
+key points: 1948
+descriptors: (1948, 61)
+matches: 227
+time: 2.16763401031
+
+good/IMG_8510.JPG:
+key points: 2021
+descriptors: (2021, 61)
+matches: 105
+time: 2.2179350853
+
+good/IMG_8504.JPG:
+key points: 194
+descriptors: (194, 61)
+matches: 179
+time: 1.98118305206
+
+good/IMG_8458.JPG:
+key points: 721
+descriptors: (721, 61)
+matches: 108
+time: 2.29960179329
+
+good/IMG_8470.JPG:
+key points: 1273
+descriptors: (1273, 61)
+matches: 127
+time: 1.95566511154
+
+good/IMG_8429.JPG:
+key points: 852
+descriptors: (852, 61)
+matches: 202
+time: 2.14888501167
+
+good/IMG_8439.JPG:
+key points: 10349
+descriptors: (10349, 61)
+matches: 254
+time: 2.44710421562
+
+good/IMG_8438.JPG:
+key points: 1258
+descriptors: (1258, 61)
+matches: 106
+time: 2.06641221046
+
+good/IMG_8436.JPG:
+key points: 2083
+descriptors: (2083, 61)
+matches: 103
+time: 2.25176715851
+
+good/IMG_8437.JPG:
+key points: 1753
+descriptors: (1753, 61)
+matches: 125
+time: 2.00594305992
+
+good/IMG_8435.JPG:
+key points: 210
+descriptors: (210, 61)
+matches: 178
+time: 2.15990900993
+
+good/IMG_8434.JPG:
+key points: 758
+descriptors: (758, 61)
+matches: 232
+time: 2.07119107246
+
+good/IMG_8430.JPG:
+key points: 11944
+descriptors: (11944, 61)
+matches: 161
+time: 2.63950300217
+
+good/IMG_8431.JPG:
+key points: 675
+descriptors: (675, 61)
+matches: 196
+time: 2.1696600914
+
+good/IMG_8433.JPG:
+key points: 7128
+descriptors: (7128, 61)
+matches: 211
+time: 2.41227507591
+
+good/IMG_8432.JPG:
+key points: 9752
+descriptors: (9752, 61)
+matches: 133
+time: 2.54479217529
+
+good/IMG_8496.JPG:
+key points: 1684
+descriptors: (1684, 61)
+matches: 200
+time: 2.11291909218
+
+good/IMG_8482.JPG:
+key points: 175
+descriptors: (175, 61)
+matches: 115
+time: 2.1732199192
+
+good/IMG_8469.JPG:
+key points: 1879
+descriptors: (1879, 61)
+matches: 141
+time: 2.02662205696
+
+good/IMG_8455.JPG:
+key points: 1932
+descriptors: (1932, 61)
+matches: 120
+time: 2.21510696411
+
+good/IMG_8441.JPG:
+key points: 1124
+descriptors: (1124, 61)
+matches: 89
+time: 2.02832698822
+
+good/IMG_8509.JPG:
+key points: 3306
+descriptors: (3306, 61)
+matches: 311
+time: 2.28475904465
+
+good/IMG_8521.JPG:
+key points: 651
+descriptors: (651, 61)
+matches: 104
+time: 2.15769100189
+
+good/IMG_8534.JPG:
+key points: 6163
+descriptors: (6163, 61)
+matches: 91
+time: 2.29694604874
+
+good/IMG_8520.JPG:
+key points: 10442
+descriptors: (10442, 61)
+matches: 119
+time: 2.6417350769
+
+good/IMG_8508.JPG:
+key points: 7327
+descriptors: (7327, 61)
+matches: 219
+time: 2.37510895729
+
+good/IMG_8440.JPG:
+key points: 6605
+descriptors: (6605, 61)
+matches: 133
+time: 2.48295783997
+
+good/IMG_8454.JPG:
+key points: 1347
+descriptors: (1347, 61)
+matches: 97
+time: 2.04851007462
+
+good/IMG_8468.JPG:
+key points: 619
+descriptors: (619, 61)
+matches: 168
+time: 2.25759601593
+
+good/IMG_8483.JPG:
+key points: 935
+descriptors: (935, 61)
+matches: 93
+time: 1.92966389656
+
+good/IMG_8497.JPG:
+key points: 3236
+descriptors: (3236, 61)
+matches: 140
+time: 2.30987095833
+
+good/IMG_8481.JPG:
+key points: 189
+descriptors: (189, 61)
+matches: 131
+time: 2.02663207054
+
+good/IMG_8495.JPG:
+key points: 4713
+descriptors: (4713, 61)
+matches: 95
+time: 2.25498199463
+
+good/IMG_8442.JPG:
+key points: 648
+descriptors: (648, 61)
+matches: 88
+time: 2.09946012497
+
+good/IMG_8456.JPG:
+key points: 1723
+descriptors: (1723, 61)
+matches: 163
+time: 2.04547905922
+
+good/IMG_8522.JPG:
+key points: 1256
+descriptors: (1256, 61)
+matches: 141
+time: 2.24210500717
+
+good/IMG_8523.JPG:
+key points: 582
+descriptors: (582, 61)
+matches: 105
+time: 1.956594944
+
+good/IMG_8457.JPG:
+key points: 1935
+descriptors: (1935, 61)
+matches: 135
+time: 2.17672419548
+
+good/IMG_8443.JPG:
+key points: 693
+descriptors: (693, 61)
+matches: 129
+time: 2.1469271183
+
+good/IMG_8494.JPG:
+key points: 3551
+descriptors: (3551, 61)
+matches: 109
+time: 2.17845392227
+
+good/IMG_8480.JPG:
+key points: 6191
+descriptors: (6191, 61)
+matches: 63
+time: 2.41108417511
+
+good/IMG_8484.JPG:
+key points: 488
+descriptors: (488, 61)
+matches: 156
+time: 1.98794102669
+
+good/IMG_8490.JPG:
+key points: 920
+descriptors: (920, 61)
+matches: 145
+time: 2.432929039
+
+good/IMG_8447.JPG:
+key points: 175
+descriptors: (175, 61)
+matches: 206
+time: 1.87087702751
+
+good/IMG_8533.JPG:
+key points: 12814
+descriptors: (12814, 61)
+matches: 100
+time: 2.65075492859
+
+good/IMG_8527.JPG:
+key points: 1095
+descriptors: (1095, 61)
+matches: 121
+time: 2.05922102928
+
+good/IMG_8526.JPG:
+key points: 1055
+descriptors: (1055, 61)
+matches: 106
+time: 2.11053514481
+
+good/IMG_8532.JPG:
+key points: 2934
+descriptors: (2934, 61)
+matches: 132
+time: 2.17088103294
+
+good/IMG_8452.JPG:
+key points: 1433
+descriptors: (1433, 61)
+matches: 176
+time: 2.08747005463
+
+good/IMG_8446.JPG:
+key points: 1405
+descriptors: (1405, 61)
+matches: 79
+time: 2.24292993546
+
+good/IMG_8491.JPG:
+key points: 1456
+descriptors: (1456, 61)
+matches: 141
+time: 554.876522064
+
+good/IMG_8493.JPG:
+key points: 2090
+descriptors: (2090, 61)
+matches: 187
+time: 4.27245092392
+
+good/IMG_8487.JPG:
+key points: 808
+descriptors: (808, 61)
+matches: 67
+time: 2.50147604942
+
+good/IMG_8450.JPG:
+key points: 1119
+descriptors: (1119, 61)
+matches: 88
+time: 2.08054900169
+
+good/IMG_8444.JPG:
+key points: 359
+descriptors: (359, 61)
+matches: 111
+time: 2.41913080215
+
+good/IMG_8478.JPG:
+key points: 8990
+descriptors: (8990, 61)
+matches: 89
+time: 2.30430102348
+
+good/IMG_8524.JPG:
+key points: 542
+descriptors: (542, 61)
+matches: 110
+time: 2.07702803612
+
+good/IMG_8530.JPG:
+key points: 6835
+descriptors: (6835, 61)
+matches: 141
+time: 2.36283898354
+
+good/IMG_8518.JPG:
+key points: 16039
+descriptors: (16039, 61)
+matches: 134
+time: 2.87257218361
+
+good/IMG_8519.JPG:
+key points: 1188
+descriptors: (1188, 61)
+matches: 115
+time: 2.10337805748
+
+good/IMG_8531.JPG:
+key points: 4562
+descriptors: (4562, 61)
+matches: 139
+time: 2.14582800865
+
+good/IMG_8525.JPG:
+key points: 698
+descriptors: (698, 61)
+matches: 144
+time: 2.23343682289
+
+good/IMG_8479.JPG:
+key points: 7543
+descriptors: (7543, 61)
+matches: 60
+time: 2.18938207626
+
+good/IMG_8445.JPG:
+key points: 659
+descriptors: (659, 61)
+matches: 185
+time: 2.33879613876
+
+good/IMG_8451.JPG:
+key points: 1554
+descriptors: (1554, 61)
+matches: 79
+time: 1.98908185959
+
+good/IMG_8486.JPG:
+key points: 2107
+descriptors: (2107, 61)
+matches: 106
+time: 2.26987218857
+
+good/IMG_8492.JPG:
+key points: 1831
+descriptors: (1831, 61)
+matches: 163
+time: 2.02309513092
+
