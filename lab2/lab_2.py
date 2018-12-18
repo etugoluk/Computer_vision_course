@@ -1,6 +1,10 @@
 import numpy as np
 import cv2 as cv
-import time
+
+import pickle
+import struct
+
+import os
 
 feature_params = dict( maxCorners = 100,
                        qualityLevel = 0.3,
@@ -13,10 +17,8 @@ lk_params = dict( winSize  = (15,15),
 
 color = np.random.randint(0,255,(100,3))
 
-separator = "separator"
-
-def encode(separator):
-	file = "snow_day.MOV"
+def encode():
+	file = "snow_day.mp4"
 	cap = cv.VideoCapture(file)
 
 	enc_file = file[:len(file) - 4] + ".enc"
@@ -26,9 +28,6 @@ def encode(separator):
 	old_gray = cv.cvtColor(old_frame, cv.COLOR_BGR2GRAY)
 	p0 = cv.goodFeaturesToTrack(old_gray, mask = None, **feature_params)
 	mask = np.zeros_like(old_frame)
-
-	f.write(old_frame.tobytes())
-	f.write(separator.encode())
 
 	while (1):
 		ret,frame = cap.read()
@@ -49,8 +48,16 @@ def encode(separator):
 			frame = cv.circle(frame,(a,b),5,color[i].tolist(),-1)
 
 		frame = cv.add(frame,mask)
-		f.write(frame.tobytes())
-		f.write(separator.encode())
+		cv.imshow('Encoded video', frame)
+
+		k = cv.waitKey(30) & 0xff
+		if k == 27:
+			break
+
+		l = pickle.dumps(frame)
+		length = struct.pack('i',len(l))
+		f.write(length)
+		f.write(l)
 
 		old_gray = frame_gray.copy()
 		p0 = good_new.reshape(-1,1,2)
@@ -64,23 +71,25 @@ def encode(separator):
 def decode(encfile):
 
 	f = open(encfile, "rb")
-	data = f.read()
-	f.close()
+	info = os.stat(encfile)
+	f_size = info.st_size
 
-	list = data.split(separator.encode())
+	while (f_size):
+		obj = f.read(4)
+		length = struct.unpack('i', obj)[0]
+		obj = f.read(length)
+		pic = pickle.loads(obj)
+		cv.imshow('Decoded Video', pic)
+		f_size = f_size - length - 4
 
-	for item in list[0:-1]:
-		frame = np.frombuffer(item,dtype=np.float32).reshape((1080, 1440, 1))
-		rgb = cv.cvtColor(frame, cv.COLOR_GRAY2BGR) #it doesn't work :(
-
-		cv.imshow('Decoded Video', rgb)
 		k = cv.waitKey(30) & 0xff
 		if k == 27:
 			break
 
 	cv.destroyAllWindows()
 	print("Video successfully decoded")
+	f.close()
 
-encfile = encode(separator)
+encfile = encode()
 decode(encfile)
 
